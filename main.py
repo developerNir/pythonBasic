@@ -82,7 +82,7 @@ mylist = [3,4,5,6,7,7,"what"]
 # numbers.sort()
 # print(numbers)
 
-#python for Object orinentd Porgramming -------------------------------oop concept
+#python for Object orinentd Porgramming ----------------------------------------------oop concept
 import ObjectOrientedProgramming as my
 x = my.oop("nirap", 45)
 y = my.oop("Bijoy", 500)

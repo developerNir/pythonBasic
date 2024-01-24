@@ -6,4 +6,5 @@ class oop():
         self.myAge = age
 
     def printObject(self):
+        print("what\n")
         print(self.myName," I am ", self.myAge)
